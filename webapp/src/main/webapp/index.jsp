@@ -6,7 +6,7 @@
 </head>
 <body>
   <div style="text-align: center; padding: 20px;">
-    <h1 style="font-size: 24px;">New User Registration for DevOps Learning</h1>
+    <h1 style="font-size: 24px;">New User Registration for DevOps Project</h1>
     <p>Please fill in this form to create an account.</p>
     <form action="action_page.php" method="POST">
       <label for="Name"><b>Full Name</b></label><br>
